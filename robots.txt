@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ofahwohsiu.svgfilters.com/sitemap.xml
